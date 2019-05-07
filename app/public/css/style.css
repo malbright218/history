@@ -1,0 +1,83 @@
+p {
+    font-size: 8pt;
+}
+
+.row {
+    height: 20px;
+}
+.card {
+    width: 200px;
+    height: 700px;
+    position: fixed;
+}
+
+.btn-circle {
+    height: 10px;
+    width: 10px;
+    margin: 0;
+    padding: 0;
+    border-radius: 50%;
+    background-color: #4CAE51;
+}
+
+.catRow {
+    height: 22px;
+}
+.catData {
+    height: 100%;
+    font-size: 10px;
+}
+
+.off {
+    border: 0.5px solid black;
+    margin: 6px;
+    height: 40px;
+    display: none;
+}
+
+.parent {
+    border: 0.5px solid black;
+    margin: 6px;
+    height: 40px;
+    float: inline-end;
+}
+
+.Politician {
+    background-color: #f37921;
+    color: black;
+    
+}
+
+.col-left {
+    text-align: left;
+    padding-left: 3px;
+}
+
+.col-right {
+    text-align: right;
+    padding-right: 3px;
+}
+
+.Music {
+    background-color: #b31279;
+    color: #fff;
+}
+
+.yearStart {
+    width: 50px;
+    font-size: 12pt;
+    color: #fff;
+    padding-top: 13px;
+}
+
+.pyear {
+    width: 50px;
+    font-size: 12pt;
+    color: red;
+    padding-top: 13px;
+    float: left;
+}
+
+.TEST {
+    background-color: red;
+}
